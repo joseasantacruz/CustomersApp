@@ -1,0 +1,33 @@
+{
+  "customers": [
+    {
+      "id": "500000",
+      "dni": "500000",
+      "name": "CARLOS SANCHES",
+      "age": 40
+    },
+    {
+      "name": "JOSE",
+      "dni": "3869695",
+      "age": 26,
+      "id": "YTMDfjL"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
